@@ -17,3 +17,5 @@ This repository contains a Grafana dashboard for visualizing and monitoring secu
 
 > **Arfan Abid**   
 > LinkedIn: https://www.linkedin.com/in/arfan-abid-152217270/
+
+> Medium: https://medium.com/@ArfanAbid/setting-up-grafana-to-visualize-wazuh-siem-alerts-and-opnsense-firewall-logs-752cce12d2ef
